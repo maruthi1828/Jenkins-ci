@@ -19,7 +19,7 @@ pipeline {
       
         stage('Release') {
             steps {
-                echo 'This is Release Stage'
+                echo 'This is Release Stage - Third Stage'
             }
         }
     }
